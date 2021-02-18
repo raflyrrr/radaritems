@@ -60,7 +60,7 @@ const Featured = () => {
   const [items, setitems] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   useEffect(() => {
-    fetch("http://localhost:3000/featured")
+    fetch("http://my-json-server.typicode.com/raflyrrr/radaritems/featured")
       .then((response) => response.json())
       .then((data) => {
         setitems(data);
