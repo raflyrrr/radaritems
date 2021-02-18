@@ -1,19 +1,32 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "featured": [
+        {
+            "id":"1",
+            "imageUrl":"https://cdn-2.tstatic.net/wartakota/foto/bank/images/new-yaris-trd-sportivo-1-toyota-yaris-facelift.jpg",
+            "price":2000000,
+            "title":"Yaris 2020",
+            "isHighlight": true
+        },
+        {
+            "id":"2",
+            "imageUrl":"https://d2pa5gi5n2e1an.cloudfront.net/id/images/car_models/Mitsubishi_Xpander/1/exterior/exterior_2L_1.jpg",
+            "price":2200000,
+            "title":"Xpander 2020",
+            "isHighlight": true
+        },
+        {
+            "id":"3",
+            "imageUrl":"https://d2pa5gi5n2e1an.cloudfront.net/webp/id/images/car_models/Toyota_Innova/3/exterior/exterior_2L_1.jpg",
+            "price":2500000,
+            "title":"Innova 2020",
+            "isHighlight": true
+        },
+        {
+            "id":"4",
+            "imageUrl":"https://img.cintamobil.com/2018/09/03/X04JVabA/img0634edited-e1f6.jpeg",
+            "price":4000000,
+            "title":"Bmw 320i 2018",
+            "isHighlight": true
+        }
+    ]
 }
