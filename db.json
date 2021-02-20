@@ -27,6 +27,20 @@
             "price":4000000,
             "title":"Bmw 320i 2018",
             "isHighlight": true
+        },
+        {
+            "id":"5",
+            "imageUrl":"https://img.cintamobil.com/2018/09/03/X04JVabA/img0634edited-e1f6.jpeg",
+            "price":4000000,
+            "title":"Bmw 320i 2018",
+            "isHighlight": true
+        },
+        {
+            "id":"6",
+            "imageUrl":"https://img.cintamobil.com/2018/09/03/X04JVabA/img0634edited-e1f6.jpeg",
+            "price":4000000,
+            "title":"Bmw 320i 2018",
+            "isHighlight": true
         }
     ]
 }
